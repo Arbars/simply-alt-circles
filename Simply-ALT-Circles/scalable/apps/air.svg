@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="air.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8"
+     inkscape:cx="-4.2046711"
+     inkscape:cy="33.932513"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="false"
+     showborder="false"
+     units="px">
+    <inkscape:grid
+       type="xygrid"
+       id="grid917" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Задний фон"
+     transform="translate(0,87)"
+     style="opacity:1">
+    <path
+       id="path929"
+       style="fill:#c2352a;fill-opacity:1;stroke:none;stroke-width:1.06763"
+       d="M 24 5.7617188 A 18.23875 18.23875 0 0 0 5.7597656 24 A 18.23875 18.23875 0 0 0 24 42.240234 A 18.23875 18.23875 0 0 0 42.240234 24 A 18.23875 18.23875 0 0 0 24 5.7617188 z M 28 11 C 31 11 32 14 32 14 L 32 23 C 32 27.000003 37 30.001953 37 33.001953 C 37 35.001951 35 36.001953 35 36.001953 C 35 36.001953 33 37.001953 31 37.001953 C 28.999999 37.001953 26.941742 33.590301 24 33.001953 C 18.999999 32.001951 18 33.001953 15 33.001953 C 10.999997 33.001953 11 30.001953 11 27.001953 C 11 25.001952 14.051316 23.316233 15 23 C 18 22.000001 18.999999 21.001954 21 19.001953 C 22.999997 17.001952 24 13.001953 24 13.001953 C 24 13.001953 25 11 28 11 z M 25.388672 21.001953 A 4.5 4.5 0 0 0 21 25.501953 A 4.5 4.5 0 0 0 25.5 30.001953 A 4.5 4.5 0 0 0 30 25.501953 A 4.5 4.5 0 0 0 25.5 21.001953 A 4.5 4.5 0 0 0 25.388672 21.001953 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,-87)" />
+    <path
+       id="path838"
+       style="fill:#fbc707;fill-opacity:1;stroke:none;stroke-width:1.22865"
+       d="M 23.789062 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 A 24 24 0 0 0 23.789062 0 z M 24 3.0097656 A 20.989575 20.989575 0 0 1 44.990234 24 A 20.989575 20.989575 0 0 1 24 44.990234 A 20.989575 20.989575 0 0 1 3.0097656 24 A 20.989575 20.989575 0 0 1 24 3.0097656 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,-87)" />
+    <g
+       id="g1913"
+       transform="matrix(0.14938293,0,0,0.14938293,1.5690066,-85.564189)"
+       style="display:inline" />
+    <g
+       id="2-main"
+       stroke="none"
+       stroke-width="1"
+       fill="none"
+       fill-rule="evenodd"
+       transform="matrix(0.09786004,0,0,0.09786004,1.4569979,-85.543002)">
+      <g
+         id="2_main_1920"
+         transform="translate(-1419,-3925)">
+        <g
+           id="Get-started"
+           transform="translate(0,3557)">
+          <g
+             id="5"
+             transform="translate(1350,328)">
+            <g
+               id="Group-26"
+               transform="translate(6,40)">
+              <g
+                 id="4k/slideshow_maker"
+                 transform="translate(63)" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
