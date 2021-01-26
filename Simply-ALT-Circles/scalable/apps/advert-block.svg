@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="7-days-to-die.svg">
+   sodipodi:docname="advert-block.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -23,11 +23,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="24.338573"
-     inkscape:cy="19.031294"
+     inkscape:zoom="16.000001"
+     inkscape:cx="28.581454"
+     inkscape:cy="22.318871"
      inkscape:document-units="px"
-     inkscape:current-layer="4k/slideshow_maker"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
@@ -91,16 +91,28 @@
                transform="translate(6,40)">
               <g
                  id="4k/slideshow_maker"
-                 transform="translate(63)">
-                <path
-                   d="m 13.828898,11.417492 7.23422,14.468443 h 36.171105 l -7.234221,9.645628 3.617111,-2.411408 v 2.042278 l 3.61711,-2.042278 -9.645628,9.645628 v -2.411406 l -2.411408,2.411406 2.411408,4.822814 -16.879849,16.879849 v 4.822814 l 2.411407,4.822813 -4.822813,2.411408 3.61711,1.081195 -3.61711,6.153025 9.645628,-12.057035 h 2.411407 L 28.29734,88.582515 42.765781,74.114073 45.177187,70.372455 v -3.492602 l 4.822815,-4.822815 v 2.207049 l 7.234221,-2.207049 4.822813,-6.154614 -0.869425,-1.079605 -3.953388,2.360464 v -2.360464 l 4.822813,-4.822815 V 45.17719 L 86.171105,11.417492 Z"
-                   style="fill:#c6241d;stroke-width:2.41141"
-                   id="path8" />
-              </g>
+                 transform="translate(63)" />
             </g>
           </g>
         </g>
       </g>
+    </g>
+    <g
+       id="g880"
+       transform="matrix(0.93535862,0,0,0.93535862,0.41047275,-5.0895834)">
+      <circle
+         cx="6.3499999"
+         cy="-80.782295"
+         r="5.2916665"
+         style="fill:#db3c30;stroke-width:0.529167"
+         id="circle4" />
+      <rect
+         x="2.6458333"
+         y="-81.311462"
+         width="7.4083333"
+         height="1.0583334"
+         style="fill:#ffffff;stroke-width:0.529167"
+         id="rect10" />
     </g>
   </g>
 </svg>

@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="7-days-to-die.svg">
+   sodipodi:docname="9gag.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -23,11 +23,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="24.338573"
-     inkscape:cy="19.031294"
+     inkscape:zoom="5.6568545"
+     inkscape:cx="2.6355791"
+     inkscape:cy="38.388421"
      inkscape:document-units="px"
-     inkscape:current-layer="4k/slideshow_maker"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
@@ -91,16 +91,15 @@
                transform="translate(6,40)">
               <g
                  id="4k/slideshow_maker"
-                 transform="translate(63)">
-                <path
-                   d="m 13.828898,11.417492 7.23422,14.468443 h 36.171105 l -7.234221,9.645628 3.617111,-2.411408 v 2.042278 l 3.61711,-2.042278 -9.645628,9.645628 v -2.411406 l -2.411408,2.411406 2.411408,4.822814 -16.879849,16.879849 v 4.822814 l 2.411407,4.822813 -4.822813,2.411408 3.61711,1.081195 -3.61711,6.153025 9.645628,-12.057035 h 2.411407 L 28.29734,88.582515 42.765781,74.114073 45.177187,70.372455 v -3.492602 l 4.822815,-4.822815 v 2.207049 l 7.234221,-2.207049 4.822813,-6.154614 -0.869425,-1.079605 -3.953388,2.360464 v -2.360464 l 4.822813,-4.822815 V 45.17719 L 86.171105,11.417492 Z"
-                   style="fill:#c6241d;stroke-width:2.41141"
-                   id="path8" />
-              </g>
+                 transform="translate(63)" />
             </g>
           </g>
         </g>
       </g>
     </g>
+    <path
+       d="m 6.35,-85.092372 -3.807748,2.221186 v 0.951937 l 3.807748,2.221187 2.2211872,-1.26925 v 1.586562 L 6.35,-78.111501 4.1374909,-79.38075 2.542252,-78.43749 6.35,-76.207627 10.157748,-78.43749 v -4.392792 z m 0,1.586562 1.5865621,0.951937 L 6.35,-81.601936 4.7634391,-82.553873 Z"
+       style="fill:#fbc707;fill-opacity:1;stroke-width:0.317312"
+       id="path8" />
   </g>
 </svg>

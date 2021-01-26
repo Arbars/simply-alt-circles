@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="flashpoint-grey.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313709"
+     inkscape:cx="23.622945"
+     inkscape:cy="25.572594"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="false"
+     showborder="false"
+     units="px">
+    <inkscape:grid
+       type="xygrid"
+       id="grid917" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Задний фон"
+     transform="translate(0,87)">
+    <g
+       id="g864">
+      <g
+         id="g1913"
+         transform="matrix(0.14938293,0,0,0.14938293,1.5690066,-85.564189)"
+         style="display:inline">
+        <g
+           id="g858">
+          <path
+             id="path4"
+             style="fill:#fbc707;fill-opacity:1"
+             d="M 8.3422678,8.0194057 47.328005,36.816228 23.834107,43.692918 c 1.674759,-3.850539 3.349375,-7.701079 5.023945,-11.551382 l 0.43581,6.047806 L 39.677516,35.506529 5.535418,9.9703494 23.201571,31.946559 10.451227,57.773784 18.835196,55.189878 c 0.979755,-2.252612 1.959533,-4.505034 2.93931,-6.75767 L 58.474482,37.12289 8.3438776,8.0208258 Z M 31.631343,-9.6114061 A 42.508203,42.508203 0 0 0 -10.503252,32.896798 42.508203,42.508203 0 0 0 32.004951,75.405001 42.508203,42.508203 0 0 0 74.513155,32.896798 42.508203,42.508203 0 0 0 32.004951,-9.6114061 a 42.508203,42.508203 0 0 0 -0.373608,0 z m 0.373608,5.3308233 A 37.176213,37.176213 0 0 1 69.182332,32.896798 37.176213,37.176213 0 0 1 32.004951,70.074178 37.176213,37.176213 0 0 1 -5.1724301,32.896798 37.176213,37.176213 0 0 1 32.004951,-4.2805828 Z" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

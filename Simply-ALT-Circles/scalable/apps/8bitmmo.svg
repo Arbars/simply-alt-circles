@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="7-days-to-die.svg">
+   sodipodi:docname="8bitmmo.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -23,11 +23,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="24.338573"
-     inkscape:cy="19.031294"
+     inkscape:zoom="16"
+     inkscape:cx="12.208975"
+     inkscape:cy="32.283979"
      inkscape:document-units="px"
-     inkscape:current-layer="4k/slideshow_maker"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
@@ -43,6 +43,10 @@
     <inkscape:grid
        type="xygrid"
        id="grid917" />
+    <sodipodi:guide
+       position="10.457969,3.611711"
+       orientation="1,0"
+       id="guide871" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -91,16 +95,16 @@
                transform="translate(6,40)">
               <g
                  id="4k/slideshow_maker"
-                 transform="translate(63)">
-                <path
-                   d="m 13.828898,11.417492 7.23422,14.468443 h 36.171105 l -7.234221,9.645628 3.617111,-2.411408 v 2.042278 l 3.61711,-2.042278 -9.645628,9.645628 v -2.411406 l -2.411408,2.411406 2.411408,4.822814 -16.879849,16.879849 v 4.822814 l 2.411407,4.822813 -4.822813,2.411408 3.61711,1.081195 -3.61711,6.153025 9.645628,-12.057035 h 2.411407 L 28.29734,88.582515 42.765781,74.114073 45.177187,70.372455 v -3.492602 l 4.822815,-4.822815 v 2.207049 l 7.234221,-2.207049 4.822813,-6.154614 -0.869425,-1.079605 -3.953388,2.360464 v -2.360464 l 4.822813,-4.822815 V 45.17719 L 86.171105,11.417492 Z"
-                   style="fill:#c6241d;stroke-width:2.41141"
-                   id="path8" />
-              </g>
+                 transform="translate(63)" />
             </g>
           </g>
         </g>
       </g>
     </g>
+    <path
+       id="path8"
+       style="fill:#fbc707;fill-opacity:1;stroke-width:0.228208"
+       d="m 2.9266034,-84.073397 v 4.564707 h 0.6851071 v 0.342287 h 5.4765788 v -0.342287 h 0.6851071 v -4.564707 z m 0.6851071,0.342821 5.4765788,0.0075 v 3.871577 H 3.6117105 Z m 0.6845724,0.912407 v 0.684572 h 1.3691447 v -0.684572 z m 2.7382894,0 v 0.684572 h 1.3691446 v -0.684572 z m -4.1079689,3.994052 v 0.684572 H 2.242031 v 0.912941 h 8.215938 l 0,-0.685107 H 9.7733964 v -0.912406 H 9.0882893 v 0.342286 H 8.4037169 v 0.912406 h -4.335803 v -0.684572 H 3.6117105 v -0.57012 z"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccc" />
   </g>
 </svg>
